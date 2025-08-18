@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1755503844044,
+  "timestamp": 1755504052080,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/dengue/favicon.ico",
         "/dengue/index.html",
-        "/dengue/main.8c67c36ddd7e0f4e.js",
+        "/dengue/main.4bf883aa5c1b4b7b.js",
         "/dengue/manifest.webmanifest",
         "/dengue/polyfills.1ac5dbed6932ef68.js",
         "/dengue/runtime.060e6a6ce7aef5c7.js",
@@ -52,8 +52,8 @@
     "/dengue/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/dengue/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/dengue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dengue/index.html": "9b8acf81de38d23ffda0242216009eb56d3e28ea",
-    "/dengue/main.8c67c36ddd7e0f4e.js": "5b75cbbcca545fcd3c996ba1f7697bdbda729b3e",
+    "/dengue/index.html": "ef44ae096ba79404ac20dde70a9aef02840e25b2",
+    "/dengue/main.4bf883aa5c1b4b7b.js": "a391a38446d68696e4c1cba87cd072b4576db21e",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
     "/dengue/runtime.060e6a6ce7aef5c7.js": "e94bd9b933f01cc836ed5b938e5893b0c2d52a88",
