@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1755495199262,
+  "timestamp": 1755498240356,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "/dengue/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/dengue/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "/dengue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dengue/index.html": "8f1891b88340406155da5da09fd5e88d75d5686b",
+    "/dengue/index.html": "675ade32f431666ff76baea7eecd019c9d08766c",
     "/dengue/main.477c08f4b2fffa16.js": "41b1f19afe9ee80598816c4d441d770110cc1bf0",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
