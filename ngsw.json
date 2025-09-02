@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1756731520536,
+  "timestamp": 1756807281267,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/dengue/favicon.ico",
         "/dengue/index.html",
-        "/dengue/main.e453feaea13da4ce.js",
+        "/dengue/main.463cdfc51ea15fbd.js",
         "/dengue/manifest.webmanifest",
         "/dengue/polyfills.1ac5dbed6932ef68.js",
         "/dengue/runtime.060e6a6ce7aef5c7.js",
-        "/dengue/styles.ef46db3751d8e999.css"
+        "/dengue/styles.6507e0fc35322572.css"
       ],
       "patterns": []
     },
@@ -38,6 +38,13 @@
         "/dengue/assets/icons/icon-512x512.png",
         "/dengue/assets/icons/icon-72x72.png",
         "/dengue/assets/icons/icon-96x96.png",
+        "/dengue/assets/inspect1.png",
+        "/dengue/assets/inspect2.png",
+        "/dengue/assets/inspect3.png",
+        "/dengue/assets/inspect4.png",
+        "/dengue/assets/inspectMap.png",
+        "/dengue/assets/inspectMap_L.png",
+        "/dengue/assets/inspectMap_R.png",
         "/dengue/assets/larva.png",
         "/dengue/assets/mosquito.png",
         "/dengue/assets/sound/swat.mp3",
@@ -72,6 +79,13 @@
     "/dengue/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/dengue/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/dengue/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/dengue/assets/inspect1.png": "245850ddebee143f876788a0dffafc249f516d22",
+    "/dengue/assets/inspect2.png": "3441d9bfbca8ef1eb2a06c01f8b52053c8d9daf0",
+    "/dengue/assets/inspect3.png": "a9377939ad5fc80890bb33f1c83e914d40e27a34",
+    "/dengue/assets/inspect4.png": "fd0c7c69a058a92d3ca1b433c09efc419669955f",
+    "/dengue/assets/inspectMap.png": "3c17bf04ed5dcf34d4ffafbeb2c9d45e84b53cb9",
+    "/dengue/assets/inspectMap_L.png": "fbfc88fabe5674c5256f8e496cadfac290ee742f",
+    "/dengue/assets/inspectMap_R.png": "fbfc88fabe5674c5256f8e496cadfac290ee742f",
     "/dengue/assets/larva.png": "2da34572237d8a7047acfdbb12496d33a89768a9",
     "/dengue/assets/mosquito.png": "0ca757618dd09b7f4b60eb3726f5ff104b6f6232",
     "/dengue/assets/sound/swat.mp3": "4c6dadd0dd1d19d95abea93ea5edc63c93b9e3b7",
@@ -92,12 +106,12 @@
     "/dengue/assets/巡.png": "8581fb391698af1042c849505ad6ce4e7f9505ab",
     "/dengue/assets/清.png": "2de09945e1d77a64e78f22bad24a494d997171c4",
     "/dengue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dengue/index.html": "ffd493ec1d7140b4894722b918c23852aa9f019c",
-    "/dengue/main.e453feaea13da4ce.js": "5f6006a41c978d48bf200725c7bee04428ab888d",
+    "/dengue/index.html": "08d9f4f4b31de7ab88e87477f5823e4e4c18e7df",
+    "/dengue/main.463cdfc51ea15fbd.js": "d2c7b1867cae8d782dcf4d7ac71512f0044b80a8",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
     "/dengue/runtime.060e6a6ce7aef5c7.js": "e94bd9b933f01cc836ed5b938e5893b0c2d52a88",
-    "/dengue/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/dengue/styles.6507e0fc35322572.css": "1c428c356d3ad7dd744d877cb29ee6f7ce441188"
   },
   "navigationUrls": [
     {
