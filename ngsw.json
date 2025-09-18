@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1757578224309,
+  "timestamp": 1758199983558,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/dengue/favicon.ico",
         "/dengue/index.html",
-        "/dengue/main.2f617b7c22c0e865.js",
+        "/dengue/main.63e026ebc0372361.js",
         "/dengue/manifest.webmanifest",
         "/dengue/polyfills.1ac5dbed6932ef68.js",
         "/dengue/runtime.060e6a6ce7aef5c7.js",
@@ -32,7 +32,6 @@
         "/dengue/assets/a.png",
         "/dengue/assets/b.png",
         "/dengue/assets/bgta.jpg",
-        "/dengue/assets/bgta.png",
         "/dengue/assets/brush.png",
         "/dengue/assets/container1.png",
         "/dengue/assets/container1F.png",
@@ -72,6 +71,7 @@
         "/dengue/assets/sound/swat.mp3",
         "/dengue/assets/splat.png",
         "/dengue/assets/tank-bg.png",
+        "/dengue/assets/tank-bg2.png",
         "/dengue/assets/tank_test.png",
         "/dengue/assets/target.png",
         "/dengue/assets/temp/larva.png",
@@ -89,7 +89,9 @@
         "/dengue/assets/巡.png",
         "/dengue/assets/清.png",
         "/dengue/assets/登革熱計畫的教具-倒.png",
-        "/dengue/assets/登革熱計畫的教具-刷.png"
+        "/dengue/assets/登革熱計畫的教具-刷-1.png",
+        "/dengue/assets/登革熱計畫的教具-刷-2.png",
+        "/dengue/assets/登革熱計畫的教具-刷-圓.png"
       ],
       "patterns": []
     }
@@ -99,7 +101,6 @@
     "/dengue/assets/a.png": "d1db50115e4f5aeec946e07277b7d101cd036660",
     "/dengue/assets/b.png": "fe5b885245987abaadf98e2c023e034b62ab3ac7",
     "/dengue/assets/bgta.jpg": "37a1a7a30713271b6fe664174f7c51e32367c357",
-    "/dengue/assets/bgta.png": "229ba7d3e659d18ec49134a3d05a8e63d992611f",
     "/dengue/assets/brush.png": "c151c500aa05ecabb5be87cb74fafd62e22bed06",
     "/dengue/assets/container1.png": "b90f5ec8227093926c27cc3addd6aee455f416eb",
     "/dengue/assets/container1F.png": "ecf2005609bbaebc22c39d1a0014cad17e66a1fe",
@@ -138,7 +139,8 @@
     "/dengue/assets/mosquito5.png": "a234b00e5d2b849b8201222eb015f27e97da6a7c",
     "/dengue/assets/sound/swat.mp3": "4c6dadd0dd1d19d95abea93ea5edc63c93b9e3b7",
     "/dengue/assets/splat.png": "1d14c7ac68bb1dc83d61ed2588d772ce9304cb35",
-    "/dengue/assets/tank-bg.png": "079752be70565c7e13f6c6f0f9810439151b1ff8",
+    "/dengue/assets/tank-bg.png": "eadc6bb71f58185c099c8f4fab4afec5e6d8a6ca",
+    "/dengue/assets/tank-bg2.png": "dfcdc5b756eaca4bcffbf4801c173f7e54a1cf62",
     "/dengue/assets/tank_test.png": "b7005a9778f990497b0270261c9d5766d902a14b",
     "/dengue/assets/target.png": "ecf2005609bbaebc22c39d1a0014cad17e66a1fe",
     "/dengue/assets/temp/larva.png": "ace7053aefe60788c6f261216c29fbacb685f9c1",
@@ -156,10 +158,12 @@
     "/dengue/assets/巡.png": "8581fb391698af1042c849505ad6ce4e7f9505ab",
     "/dengue/assets/清.png": "2de09945e1d77a64e78f22bad24a494d997171c4",
     "/dengue/assets/登革熱計畫的教具-倒.png": "9e72e94c89cb95d33dd46981356c7467ecaffb05",
-    "/dengue/assets/登革熱計畫的教具-刷.png": "dfcdc5b756eaca4bcffbf4801c173f7e54a1cf62",
+    "/dengue/assets/登革熱計畫的教具-刷-1.png": "4cbb7f77295ab4fda32f7e0a210de633ccfc5eed",
+    "/dengue/assets/登革熱計畫的教具-刷-2.png": "07922d0f3fdc2da3011506f44ea15893aad5a944",
+    "/dengue/assets/登革熱計畫的教具-刷-圓.png": "275bf355ad61901d05baec81473a3aab88e94651",
     "/dengue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dengue/index.html": "32e91b4f67cc6ba480eb808be42818b45850af5c",
-    "/dengue/main.2f617b7c22c0e865.js": "ed7717a00b7e0e3f37bc33af51b2ee8fd6880d32",
+    "/dengue/index.html": "c73d21b5eb7af040aff720c2e38434c2f726f033",
+    "/dengue/main.63e026ebc0372361.js": "845c395a07395e40e49183cb24d0ca80b9013ac8",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
     "/dengue/runtime.060e6a6ce7aef5c7.js": "e94bd9b933f01cc836ed5b938e5893b0c2d52a88",
