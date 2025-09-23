@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758276783981,
+  "timestamp": 1758616878794,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/dengue/favicon.ico",
         "/dengue/index.html",
-        "/dengue/main.382401cda6be0294.js",
+        "/dengue/main.14de7ecfd3850b73.js",
         "/dengue/manifest.webmanifest",
         "/dengue/polyfills.1ac5dbed6932ef68.js",
         "/dengue/runtime.060e6a6ce7aef5c7.js",
-        "/dengue/styles.3a744c34695e56e4.css"
+        "/dengue/styles.6507e0fc35322572.css"
       ],
       "patterns": []
     },
@@ -74,6 +74,9 @@
         "/dengue/assets/mosquito5.png",
         "/dengue/assets/pool.png",
         "/dengue/assets/recycleImg.png",
+        "/dengue/assets/sound/brus.mp3",
+        "/dengue/assets/sound/clear.mp3",
+        "/dengue/assets/sound/start.mp3",
         "/dengue/assets/sound/swat.mp3",
         "/dengue/assets/splat.png",
         "/dengue/assets/tank-bg.png",
@@ -150,7 +153,10 @@
     "/dengue/assets/mosquito5.png": "a234b00e5d2b849b8201222eb015f27e97da6a7c",
     "/dengue/assets/pool.png": "5f5328bbe5327e453420effeb3f7b1517fdb1450",
     "/dengue/assets/recycleImg.png": "a2871235d522576367c301d84d6c5591a125a9ca",
-    "/dengue/assets/sound/swat.mp3": "4c6dadd0dd1d19d95abea93ea5edc63c93b9e3b7",
+    "/dengue/assets/sound/brus.mp3": "e823566773e9f4602f2e8b2dabf09bd68c805b6b",
+    "/dengue/assets/sound/clear.mp3": "c0e116d41dfa1f8b9292a8884a4c1a2026f7592f",
+    "/dengue/assets/sound/start.mp3": "88481adfa504116996b99cc77a75dc24aedf76b3",
+    "/dengue/assets/sound/swat.mp3": "3f5c850b28402af443f99edf31eade13347abc63",
     "/dengue/assets/splat.png": "1d14c7ac68bb1dc83d61ed2588d772ce9304cb35",
     "/dengue/assets/tank-bg.png": "eadc6bb71f58185c099c8f4fab4afec5e6d8a6ca",
     "/dengue/assets/tank-bg2.png": "dfcdc5b756eaca4bcffbf4801c173f7e54a1cf62",
@@ -176,12 +182,12 @@
     "/dengue/assets/登革熱計畫的教具-刷-2.png": "07922d0f3fdc2da3011506f44ea15893aad5a944",
     "/dengue/assets/登革熱計畫的教具-刷-圓.png": "275bf355ad61901d05baec81473a3aab88e94651",
     "/dengue/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dengue/index.html": "ff733bf93b60e17cd839cd7acc5d9619ad1a4a27",
-    "/dengue/main.382401cda6be0294.js": "3b450120c515a17f905770b355b96698bc6bef74",
+    "/dengue/index.html": "1eb5ebc4acd22105e159c19dafaf44fe6e4bdab9",
+    "/dengue/main.14de7ecfd3850b73.js": "f64ffc2c4658b99f9ebaeba8fcbaf6999593bbb8",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
     "/dengue/runtime.060e6a6ce7aef5c7.js": "e94bd9b933f01cc836ed5b938e5893b0c2d52a88",
-    "/dengue/styles.3a744c34695e56e4.css": "0e4937ded08d09d8f95fca67fafa2bf9d5896974"
+    "/dengue/styles.6507e0fc35322572.css": "1c428c356d3ad7dd744d877cb29ee6f7ce441188"
   },
   "navigationUrls": [
     {
