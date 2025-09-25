@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758707760135,
+  "timestamp": 1758769697114,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/dengue/favicon.ico",
         "/dengue/index.html",
-        "/dengue/main.a2a9484365bed4da.js",
+        "/dengue/main.89bb091d72e4f745.js",
         "/dengue/manifest.webmanifest",
         "/dengue/polyfills.1ac5dbed6932ef68.js",
         "/dengue/runtime.060e6a6ce7aef5c7.js",
@@ -23,7 +23,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -108,14 +108,14 @@
     "/dengue/assets/brush.png": "c151c500aa05ecabb5be87cb74fafd62e22bed06",
     "/dengue/assets/cab.png": "c057b21dbf9bcba9e113993284c0a450fbe7fddb",
     "/dengue/assets/can.png": "95fe80106378bbda6f498dd33dc02547b2c9ed40",
-    "/dengue/assets/container1.png": "b90f5ec8227093926c27cc3addd6aee455f416eb",
-    "/dengue/assets/container1F.png": "580db2d27a168da8e3c0e759d2169a39cca70411",
-    "/dengue/assets/container2.png": "44a14a4e40c7f7db5ffe3d1e596ffc330f2c1870",
-    "/dengue/assets/container2F.png": "671e1dd8c4ed7cb2d41eeb867105ab74aae9d3fe",
-    "/dengue/assets/container3.png": "5d87fba07bef61647984b591523cf06c2ff3882a",
-    "/dengue/assets/container3F.png": "457fccb99566e2433f869c56f747d4be23a0463f",
-    "/dengue/assets/container4.png": "00fc2ba2e4fa7d870a562f24b9c2e005b12e5756",
-    "/dengue/assets/container4F.png": "efb07b3023af15a132a9776b27f25010d3ceac38",
+    "/dengue/assets/container1.png": "6c97f4e953843a08f29e8a343bc417668f0da997",
+    "/dengue/assets/container1F.png": "7846056259dcc358450131fa17f599e4c325f785",
+    "/dengue/assets/container2.png": "2635424370ee674ae6c95e28d7caa2e2378591e6",
+    "/dengue/assets/container2F.png": "39a1c365aa0b328c6607b7304e71420c7a3ef2e0",
+    "/dengue/assets/container3.png": "31b3337b6a69ea51d82ceb83400c7bda42cc8770",
+    "/dengue/assets/container3F.png": "f5fb5fbfa7be94c72d3bcf0b5f90a8e3b486f98e",
+    "/dengue/assets/container4.png": "ae042f57acb33ad2ef195b02171ffd1eadf3e0ae",
+    "/dengue/assets/container4F.png": "aa0e32b62b19b222d619fdfbc916e7d21394a3c0",
     "/dengue/assets/ditch.png": "1a5ef0364d2b10f2934bd50d29e922db0e771ad3",
     "/dengue/assets/drain.png": "f16f069fe2b7d88ca85ebd251c4bbf6468044063",
     "/dengue/assets/drainBG.png": "be65dbb746f88188e3822502b276ce8257e7e825",
@@ -170,8 +170,8 @@
     "/dengue/assets/登革熱計畫的教具-刷-2.png": "07922d0f3fdc2da3011506f44ea15893aad5a944",
     "/dengue/assets/登革熱計畫的教具-刷-圓.png": "275bf355ad61901d05baec81473a3aab88e94651",
     "/dengue/favicon.ico": "bd01c14feca177952863e14fc4e2f57866784796",
-    "/dengue/index.html": "3ecbf8c6f7d0997c757538319f261bce37a5bc0a",
-    "/dengue/main.a2a9484365bed4da.js": "3e829d0bcc0f5edf6f308f4f86ffae00319c51fb",
+    "/dengue/index.html": "59b9201508775bd7f516be6a0991d6c3c81ac920",
+    "/dengue/main.89bb091d72e4f745.js": "301311eef7fd12adaa0d8c0f468b4e3515e0e701",
     "/dengue/manifest.webmanifest": "8868548baeff0d457c6ee308a121d35cfcb04766",
     "/dengue/polyfills.1ac5dbed6932ef68.js": "1d20c7332f5490552d4e4a53ab6b15af5334bb85",
     "/dengue/runtime.060e6a6ce7aef5c7.js": "e94bd9b933f01cc836ed5b938e5893b0c2d52a88",
