@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1763361471196,
+  "timestamp": 1763363136554,
   "index": "/dengue/index.html",
   "assetGroups": [
     {
@@ -141,7 +141,7 @@
     "/dengue/assets/container3.png": "63c9f7bfdfb58acb17f6a5ed67d734536d7c4854",
     "/dengue/assets/container4.png": "e503d968c38030359f748f85b621eb26dc212fdf",
     "/dengue/assets/ditch.png": "1a5ef0364d2b10f2934bd50d29e922db0e771ad3",
-    "/dengue/assets/drain.png": "f16f069fe2b7d88ca85ebd251c4bbf6468044063",
+    "/dengue/assets/drain.png": "fba57d6b5196c555b574c6823fa9472d999fd474",
     "/dengue/assets/drainBG-O.png": "be65dbb746f88188e3822502b276ce8257e7e825",
     "/dengue/assets/drainBG.png": "c1d0e2036d70e028913c0b897ebd7cf2429ace89",
     "/dengue/assets/fountain.png": "17704e84e4ab198c49d56a120e63c09978e320ee",
